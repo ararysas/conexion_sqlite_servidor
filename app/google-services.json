@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45914931929",
+    "project_id": "androipmap",
+    "storage_bucket": "androipmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45914931929:android:189560cbd9e7d308cbf4c8",
+        "android_client_info": {
+          "package_name": "com.sistema.conexionasqlserver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2w4QskINJWqxwf3hIw3GR0bKbgYsR7TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
